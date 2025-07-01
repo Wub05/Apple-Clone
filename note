@@ -1,0 +1,17 @@
+ 
+
+  
+
+    https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails,statistics&forUsername={USERNAME}&key={YOUR_API_KEY}
+
+
+
+API_KEY=AIzaSyAhC9GSyBIz9LGf1x_T5yMtVz2Jib6qmPM
+id= "UCE_M8A5yxnLfW0KghEeajjw" //for apple channels
+
+  https://www.googleapis.com/youtube/v3/channels?part=id&forUsername=apple&key=AIzaSyAhC9GSyBIz9LGf1x_T5yMtVz2Jib6qmPM
+
+
+  //last......
+
+    https://www.googleapis.com/youtube/v3/search?part=snippet,id&order=date&maxResults=8&channelId=UCE_M8A5yxnLfW0KghEeajjw&key=AIzaSyAhC9GSyBIz9LGf1x_T5yMtVz2Jib6qmPM
